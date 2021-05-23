@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to the Middle Of The Road Studio Website
 
 You can use the [editor on GitHub](https://github.com/JackWasSuperior/W-O-S_game/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
